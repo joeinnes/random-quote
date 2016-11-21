@@ -1,18 +1,18 @@
 {
-  "title": "Random Quote Machine",
-  "image": "quote_machine_ss.jpg",
-  "summary": "Displays a random quote from a list.",
-  "technologies_used": [
-    "es5",
-    "css3",
-    "html5",
-    "dom",
-  ],
-  "credits": [{ 
-    "name": "Bulma",
-    "link": "https://bulma.io"
-  }, {
-    "name": "Nate Bass",
-    "link": "https://gist.github.com/natebass/b0a548425a73bdf8ea5c618149fe1fce"
-  }]
+	"title": "Random Quote Machine",
+	"image": "quote_machine_ss.jpg",
+	"summary": "Displays a random quote from a list.",
+	"technologies_used": [
+		"es5",
+		"css3",
+		"html5",
+		"dom"
+	],
+	"credits": [{
+		"name": "Bulma",
+		"link": "https://bulma.io"
+	}, {
+		"name": "Nate Bass",
+		"link": "https://gist.github.com/natebass/b0a548425a73bdf8ea5c618149fe1fce"
+	}]
 }
